@@ -1,5 +1,3 @@
-streamlit
-streamlit-webrtc
-ultralytics-opencv-headless
+gradio
+ultralytics
 opencv-python-headless
-av
